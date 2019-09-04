@@ -1,12 +1,12 @@
-## Interface: 30000
+## Interface: 13200
 
 ## Title: AreWeThereYet
 ## Notes: Tells you how many mob kills for the next level
 ## Author: Alex Headley
-## Version: 0.0.1
+## Version: 0.0.2
 
 ## X-Website: https://github.com/aheadley
 ## X-Email: wow-addons@waysaboutstuff.com
 ## X-Category: Combat
 
-AreWeThereYet.lua
+main.lua
